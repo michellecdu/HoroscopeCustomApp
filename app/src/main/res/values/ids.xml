@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="radio_group" type="id" />
+    <item name="tv_display" type="id" />
+    <item name="btn_next" type="id" />
+</resources>
